@@ -45,7 +45,7 @@ Ensure Docker has sufficient resources (RAM, CPU) to run the LLM.
 
 Troubleshooting
 
-If the frontend cannot connect to the backend, ensure the backend is running on http://localhost:8000.
+If the frontend cannot connect to the backend, ensure the backend is running on http://localhost:8501.
 If Ollama fails to start, check the container logs: docker logs ollama.
 
 
