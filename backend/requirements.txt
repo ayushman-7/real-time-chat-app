@@ -1,0 +1,5 @@
+fastapi==0.115.0
+python-socketio==5.11.4
+aiohttp==3.10.5
+ollama==0.3.3
+uvicorn==0.30.6
